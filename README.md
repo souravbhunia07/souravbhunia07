@@ -19,3 +19,17 @@ Here are some ideas to get you started:
 Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enthusiast. When the sun sets, I embrace my creator mode, dedicated to sharing knowledge and empowering others in the vast realms of software development and engineering! Welcome to my GitHub profile, where innovation meets collaboration.
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
+
+### ⚡️ A quick introduction
+
+- 🌱 I’m currently learning AI/ML. 
+- 💼 I'm open to freelancing projects.
+- 🤟🏻 In the vast expanse of code and cosmic wonders, I orbit as an astronomy enthusiast, weaving captivating blogs and weaving through opponents on the football field, in a stellar pursuit of knowledge, creativity, and victory!
+
+---
+
+### 🤝🏻 Connect, Follow, Subscribe
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-bhunia-38408917a/)
