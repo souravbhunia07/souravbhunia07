@@ -26,7 +26,7 @@ Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enth
 
 - 🌱 I’m currently learning AI/ML. 
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 In the vast expanse of code and cosmic wonders, I orbit as an astronomy enthusiast, weaving captivating blogs and weaving through opponents on the football field, in a stellar pursuit of knowledge, creativity, and victory!
+- 🤟🏻 In the vast expanse of code and cosmic wonders, I orbit as an astronomy enthusiast, weaving captivating videos and weaving through opponents on the football field, in a stellar pursuit of knowledge, creativity, and victory!
 
 ---
 
