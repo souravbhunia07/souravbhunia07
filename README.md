@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there, I'm Sourav Kumar Bhunia
+
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer+👨‍💻)](https://git.io/typing-svg)
 
 Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enthusiast. When the sun sets, I embrace my creator mode, dedicated to sharing knowledge and empowering others in the vast realms of software development and engineering! Welcome to my GitHub profile, where innovation meets collaboration.
 
