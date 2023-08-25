@@ -35,10 +35,10 @@ Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enth
 
 ---
 
-### 🤝🏻 Connect, Follow, Subscribe
+### 🤝🏻 Connect, Follow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-bhunia-38408917a/)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UchihaDev106)
+<!--- [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UchihaDev106) --->
 
 ---
 
