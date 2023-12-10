@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer+👨‍💻)](https://git.io/typing-svg)
 
-Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enthusiast. When the sun sets, I embrace my creator mode, dedicated to sharing knowledge and empowering others in the vast realms of software development and engineering! Welcome to my GitHub profile, where innovation meets collaboration.
+Greetings, fellow coders! I'm Sourav Kumar Bhunia, a passionate programming enthusiast. 
 
 <a href="https://www.buymeacoffee.com/souravbhunia07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
